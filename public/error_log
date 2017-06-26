@@ -1,0 +1,1 @@
+[19-Jun-2017 09:31:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/techo13/public_html/lms/app/Exceptions/Handler.php on line 52

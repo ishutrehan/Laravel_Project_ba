@@ -1,0 +1,4 @@
+>	greater than	&gt;
+&	ampersand	&amp;
+"	double quotation mark	&quot;
+'	single quotation mark (apostrophe)	&apos;
